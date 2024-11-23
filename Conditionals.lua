@@ -129,6 +129,7 @@ Roids.WeaponTypeNames = {
     Bows = { slot = "RangedSlot", name = Roids.Localized.Bow },
     Thrown = { slot = "RangedSlot", name = Roids.Localized.Thrown },
     Wands = { slot = "RangedSlot", name = Roids.Localized.Wand },
+    Fishing = { slot = "MainHandSlot", name = "Fishing Pole" },
 };
 
 -- Checks whether or not the given weaponType is currently equipped
