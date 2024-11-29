@@ -1,6 +1,6 @@
 ## Interface: 11200
 ## Author: DWG
-## Title: Roid Macros - tweaked
+## Title: Roid Macros |cff6e36d6-Ironsights-
 ## Notes: Vanilla macros on steroids!
 ## Title-deDE: Roid Macros
 ## Notes-deDE: Vanilla Macros auf Steroide!
